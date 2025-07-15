@@ -12,4 +12,4 @@ __Todays Topics Covered:__
  
 👉**head tag** contains the META-information (like links to CSS files, tittle, etc..) --> {this meta-information is not visible on the screen.}
 
-👉**body tag contains the Content that Displays on the Screen.
+👉**body tag** contains the Content that Displays on the Screen.
