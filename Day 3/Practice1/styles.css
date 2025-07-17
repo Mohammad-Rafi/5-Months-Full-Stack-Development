@@ -1,0 +1,12 @@
+body {background-color: #add8e6;}
+h1 , h2 {background-color: #bcd5de;}
+p {background-color:#9bd3e5;}
+body {font-family: 'Courier New', Courier, monospace;}
+h1 {font-size: 3em, font-weight: bold;}
+ul {list-style-type: square;}
+li {padding: 5px 0;}
+a {color: #0808fa; text-decoration:none;}
+a:hover {
+    color: #31315f;
+}
+
