@@ -4,7 +4,7 @@ __Todays Topics Covered:__
 
 👉Basic HTML tags : **HTML**, **HEAD**, **BODY**, **P**, **a**, **UL**, **OL**, **li** 
 
-👉Attributes **href** for (anchor tag) **a tag** provides the **Destination of the link** and **src** for **img tag** specifies the **source** , the **alt** provides the **alternative text for the source**.
+👉Attributes **href** for (anchor tag) **a tag** provides the **Destination of the link** and **src** for **img tag** specifies the **source** , the **alt Attribute** provides the **alternative text for the source**.
 
 👉**li** is used inside the **ul (bullets) and ol (numbered) tags**.
 
