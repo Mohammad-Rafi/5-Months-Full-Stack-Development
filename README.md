@@ -8,4 +8,4 @@ I make sure there are no Day Offs✊🏻 and Commit myself with Discipline towar
 
 My Goal is to Complete this Task by the End of December🎄. By completing this I would like to enter New Year with another new TARGET✊🏻📈.
 
-ALL BEST FOR MYSELF.
+ALL BEST FOR MYSELF🤝.
